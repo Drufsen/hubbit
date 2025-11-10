@@ -116,7 +116,8 @@ const DeviceList = ({ initialDevices }: Props) => {
       </div>
       <div className={styles.helpText}>
         Don&apos;t know how to find your <a href={'https://en.wikipedia.org/wiki/MAC_address'}>MAC Address</a>? <br />
-        Take a look at <a href={'https://www.wikihow.com/Find-the-MAC-Address-of-Your-Computer'}>this guide</a>!
+        Take a look at <a href={'https://www.wikihow.com/Find-the-MAC-Address-of-Your-Computer'}>this guide</a>! <br />
+        Is hubbIT still not working for you? Check out the <a href={'https://wiki.chalmers.it/hubbIT'}>wiki</a>!
       </div>
       <button
         className={styles.saveButton}
